@@ -22,7 +22,5 @@
 
 ## D A T A
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leee62&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leee62&show_icons=true&hide=contribs,prs&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
