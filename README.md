@@ -1,9 +1,9 @@
 <div align="center">
 
 ## M E
-[![](https://img.shields.io/static/v1?label=Blog&message=Ashenone62&color=orange&style=for-the-badge&logo=HomeAssistant&logoColor=white)](https://www.ashenone62.ltd/)
+[![](https://img.shields.io/static/v1?label=Blog&message=Ashenone62&color=orange&style=for-the-badge&logo=HomeAssistant&logoColor=white)](STOP)
 [![](https://img.shields.io/static/v1?label=Email&message=Ashenone62@outlook.com&color=blue&style=for-the-badge&logo=MicrosoftOutlook&logoColor=white)](Mailto:Ashenone62@outlook.com)
-[![](https://img.shields.io/static/v1?label=Photography&message=My-Works&color=7E4DD2&style=for-the-badge&logo=Photobucket&logoColor=white)](  https://www.ashenone62.ltd/gallery/)
+[![](https://img.shields.io/static/v1?label=Base&message=Chengdu&color=7E4DD2&style=for-the-badge&logo=Photobucket&logoColor=white)](STOP)
 
 ## S K I L L S
 ![](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=HTML5&logoColor=white)
